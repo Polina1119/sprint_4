@@ -1,0 +1,14 @@
+{
+  "tests.py::TestBooksCollector::test_get_books_with_specific_genre[\\u0413\\u043e\\u0440\\u0434\\u043e\\u0441\\u0442\\u044c \\u0438 \\u043f\\u0440\\u0435\\u0434\\u0443\\u0431\\u0435\\u0436\\u0434\\u0435\\u043d\\u0438\\u0435 \\u0438 \\u0437\\u043e\\u043c\\u0431\\u0438-\\u0424\\u0430\\u043d\\u0442\\u0430\\u0441\\u0442\\u0438\\u043a\\u0430]": true,
+  "tests.py::TestBooksCollector::test_get_books_with_specific_genre[\\u0420\\u0435\\u043b\\u0438\\u0437 \\u0432\\u043e\\u0432\\u0440\\u0435\\u043c\\u044f-\\u0424\\u0430\\u043d\\u0442\\u0430\\u0441\\u0442\\u0438\\u043a\\u0430]": true,
+  "tests.py::TestBooksCollector::test_get_book_genre[Зомби-Фантастика]": true,
+  "tests.py::TestBooksCollector::test_get_books_genre[Гордость и предубеждение и зомби-Мультфильмы]": true,
+  "tests.py::TestBooksCollector::test_get_books_genre[Мумия-Ужасы]": true,
+  "tests.py::TestBooksCollector::test_get_books_genre[Каштановый человечек-Детектив]": true,
+  "tests.py::TestBooksCollector::test_get_books_genre[Кот и собака-Фантастика]": true,
+  "tests.py::TestBooksCollector::test_get_books_genre[Гордость, предубеждение и зомби-Мультфильмы]": true,
+  "tests.py::TestBooksCollector::test_get_books_for_children[Каштановый человечек-Детектив]": true,
+  "tests.py::TestBooksCollector::test_get_books_for_children[Мумия-Ужасы]": true,
+  "tests.py::TestBooksCollector::test_get_books_for_children[Каштановый человечек-Детективы]": true,
+  "tests.py::TestBooksCollector::test_get_books_for_children[Кот и собака-Фантастика]": true
+}

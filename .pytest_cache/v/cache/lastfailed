@@ -10,5 +10,10 @@
   "tests.py::TestBooksCollector::test_get_books_for_children[Каштановый человечек-Детектив]": true,
   "tests.py::TestBooksCollector::test_get_books_for_children[Мумия-Ужасы]": true,
   "tests.py::TestBooksCollector::test_get_books_for_children[Каштановый человечек-Детективы]": true,
-  "tests.py::TestBooksCollector::test_get_books_for_children[Кот и собака-Фантастика]": true
+  "tests.py::TestBooksCollector::test_get_books_for_children[Кот и собака-Фантастика]": true,
+  "tests.py::TestBooksCollector::test_add_new_book_name_0__and_42_symbols[name0]": true,
+  "tests.py::TestBooksCollector::test_add_new_book_name_0__and_42_symbols[name1]": true,
+  "tests.py::TestBooksCollector::test_add_new_book_name_0__and_42_symbols[None]": true,
+  "tests.py::TestBooksCollector::test_add_new_book_name_0__and_42_symbols[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa]": true,
+  "tests.py::TestBooksCollector::test_add_new_book_name_0_and_42_symbols[None]": true
 }
